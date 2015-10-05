@@ -1,0 +1,3 @@
+home,Welcome to the home page,
+about,This website is a test about page wanna create your own website like this,
+contact,wanna funkin contact me?[],
